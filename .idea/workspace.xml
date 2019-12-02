@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0babe66b-9bbd-43af-bfca-efe5b0838f8a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UILxuwrVpWjl8GexaA0cVLZ5AW" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.15.3" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.Gilded Rose">
+    <configuration name="Gilded Rose" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test/test_gilded_rose.js</test-file>
+      <test-names>
+        <name value="Gilded Rose" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Gilded Rose.should work as expected with Aged Brie item with remaining sellInm quelity cant be more than 50" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/test_gilded_rose.js</test-file>
+      <test-names>
+        <name value="Gilded Rose" />
+        <name value="should work as expected with Aged Brie item with remaining sellInm quelity cant be more than 50" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Gilded Rose.should work as expected with Backstage passes item, remaining sellIn will increase the quality according to the sellIn" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/test_gilded_rose.js</test-file>
+      <test-names>
+        <name value="Gilded Rose" />
+        <name value="should work as expected with Backstage passes item, remaining sellIn will increase the quality according to the sellIn" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Gilded Rose.should work as expected with Conjured item, remaining sellIn and quality" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/test_gilded_rose.js</test-file>
+      <test-names>
+        <name value="Gilded Rose" />
+        <name value="should work as expected with Conjured item, remaining sellIn and quality" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Gilded Rose.should work as expected with Sulfuras item, remaining sellIn will be not modified, and quality the same" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/test_gilded_rose.js</test-file>
+      <test-names>
+        <name value="Gilded Rose" />
+        <name value="should work as expected with Sulfuras item, remaining sellIn will be not modified, and quality the same" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.Gilded Rose" />
+        <item itemvalue="Mocha.Gilded Rose.should work as expected with Conjured item, remaining sellIn and quality" />
+        <item itemvalue="Mocha.Gilded Rose.should work as expected with Backstage passes item, remaining sellIn will increase the quality according to the sellIn" />
+        <item itemvalue="Mocha.Gilded Rose.should work as expected with Sulfuras item, remaining sellIn will be not modified, and quality the same" />
+        <item itemvalue="Mocha.Gilded Rose.should work as expected with Aged Brie item with remaining sellInm quelity cant be more than 50" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0babe66b-9bbd-43af-bfca-efe5b0838f8a" name="Default Changelist" comment="" />
+      <created>1575039413006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575039413006</updated>
+      <workItem from="1575039414089" duration="4653000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/changes.js</url>
+          <line>49</line>
+          <properties lambdaOrdinal="0" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
